@@ -1,4 +1,4 @@
-# 💻 PROJECT: langlopende taak > deelopdracht 1
+# 💻 PROJECT: langlopende taak > deelopdracht 01
 
 - [💻 PROJECT: langlopende taak](#-project---langlopende-taak)
   - [🥅 overzicht en leerdoelen](#-overzicht-en-leerdoelen)
